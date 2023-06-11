@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuessTheCountry</string>
+    <string name="guess_the_country">ÜLKEYİ TAHMİN ET</string>
+    <string name="tahmininiz">Tahmininiz?</string>
+    <string name="kontrol_et">Kontrol Et</string>
+    <string name="kurallar">Oyunumuza Hoşgeldiniz! \n Oyuna başla butonuna tıkladığınızda karşınıza sırayla ülkelerin
+        fotoğrafları gelecek ve 10 saniye içerisinde tahmin etmeniz gerekiyor. \n tahmininiz doğru ise skorunuz artacaktır.
+        2 dakika içerisinde en yüksek skorunuzu kaydedin!</string>
+    <string name="start">Oyuna Başla</string>
+    <string name="kalan_zaman">Kalan zaman:</string>
+    <string name="skor">skor:</string>
+</resources>
